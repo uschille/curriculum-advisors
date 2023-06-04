@@ -10,12 +10,6 @@
 * Toby Hodges - TH
 * Ulf Schiller (Facilitator) - US
 
-### Meeting roles
-
-* Facilitator - Introduces each agenda item. Monitors both the chat and the visual meeting window for “hands”, keeps track of order, and says whose turn it is to speak. Makes sure everyone has a chance to share their views.
-* Notetaker - Records meeting attendance and major points of discussion. Especially takes note of decisions and action items.
-* Timekeeper - Pays attention to the clock and notifies the group when time for specific agenda items is running short.
-
 ### Agenda
 
 * Curriculum advisor's check-in (cf. message from Toby Hodges)
